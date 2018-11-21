@@ -1,4 +1,4 @@
-package behavioral.mvc;
+package mvc;
 
 public class StudentView {
     public void printStudentDetails(String studentName, String studentRollNo){

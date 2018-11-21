@@ -1,4 +1,4 @@
-package behavioral.mvc;
+package mvc;
 
 public class MVCPatternDemo {
     public static void main(String[] args) {

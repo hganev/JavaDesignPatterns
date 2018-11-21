@@ -1,4 +1,4 @@
-package behavioral.mvc;
+package mvc;
 
 public class Student {
     private String rollNo;
